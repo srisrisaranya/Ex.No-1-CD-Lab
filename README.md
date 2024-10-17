@@ -1,16 +1,16 @@
 Ex. No : 1
 
-IMPLEMENTATION OF SYMBOL TABLE
+## IMPLEMENTATION OF SYMBOL TABLE
 
-Register Number : 212223110044
+## Register Number : 212223110044
 
-Date : 24-09-2024
+## Date : 24-09-2024
 
-AIM:
+## AIM:
 
 To write a C program to implement a symbol table.
 
-ALGORITHM:
+## ALGORITHM:
 
 Start the program.
 Get the input from the user with the terminating symbol ‘$’.
