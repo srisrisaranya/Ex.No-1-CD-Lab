@@ -22,6 +22,7 @@ To reach a variable, enter the variable to be searched and symbol table has been
 Stop the program.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -87,10 +88,10 @@ int main() {
 
     return 0;
 }
-
+```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/67e951f4-1a66-40c0-af90-9902476c4bc5)
+![image](https://github.com/user-attachments/assets/6fff0361-12d2-4031-bec4-214c257fe763)
 
 
 ## RESULT:
